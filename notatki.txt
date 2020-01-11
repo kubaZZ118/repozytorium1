@@ -1,2 +1,7 @@
 kolorowe jarmarki
 blaszane zegarki
+
+======ROZDZIAL 1
+Git jest bardzo fajnym programem. Szkoda ze malo go jeszcze rozumiem.
+
+git init - inicjalizacja repozytorium
